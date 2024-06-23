@@ -1,0 +1,532 @@
+[{
+  "_id": {
+    "$oid": "665ff934e616047a7815d7db"
+  },
+  "testValue": 115,
+  "movements": [
+    {
+      "movement": 1,
+      "entries": [
+        {
+          "code": "A",
+          "description": "Enter at Working Trot"
+        },
+        {
+          "code": "X",
+          "description": "Halt Immobility Salute. Proceed at Working Trot"
+        },
+        {
+          "code": "C",
+          "description": "Track Left"
+        }
+      ]
+    },
+    {
+      "movement": 2,
+      "entries": [
+        {
+          "code": "H",
+          "description": "Leg Yield Left to Between X & D"
+        },
+        {
+          "code": "A",
+          "description": "Track Right"
+        }
+      ]
+    },
+    {
+      "movement": 3,
+      "entries": [
+        {
+          "code": "K",
+          "description": "Leg Yield Right to between X & G"
+        },
+        {
+          "code": "C",
+          "description": "Track Left"
+        }
+      ]
+    },
+    {
+      "movement": 4,
+      "entries": [
+        {
+          "code": "HXE",
+          "description": "Change the Rein Medium Trot (Sitting or Rising)"
+        }
+      ]
+    },
+    {
+      "movement": 5,
+      "entries": [
+        {
+          "code": "F",
+          "description": "Working Trot (Mark for Transitions at H & F)"
+        }
+      ]
+    },
+    {
+      "movement": 6,
+      "entries": [
+        {
+          "code": "A",
+          "description": "Collected Canter Right"
+        },
+        {
+          "code": "AKE",
+          "description": "Collected Canter Right"
+        }
+      ]
+    },
+    {
+      "movement": 7,
+      "entries": [
+        {
+          "code": "E",
+          "description": "20 Metre Circle Right Medium Canter"
+        }
+      ]
+    },
+    {
+      "movement": 8,
+      "entries": [
+        {
+          "code": "EHCM",
+          "description": "Collected Canter Right (Transitions into/out of Med Canter)"
+        }
+      ]
+    },
+    {
+      "movement": 9,
+      "entries": [
+        {
+          "code": "B",
+          "description": "Turn Right Simple Change over X"
+        }
+      ]
+    },
+    {
+      "movement": 10,
+      "entries": [
+        {
+          "code": "E",
+          "description": "Track Left"
+        },
+        {
+          "code": "KAF",
+          "description": "Collected Canter Left"
+        }
+      ]
+    },
+    {
+      "movement": 11,
+      "entries": [
+        {
+          "code": "B",
+          "description": "20 Metre Circle Left Medium Canter"
+        }
+      ]
+    },
+    {
+      "movement": 12,
+      "entries": [
+        {
+          "code": "BM",
+          "description": "Collected Canter Left (Transitions into/out of Med Canter)"
+        }
+      ]
+    },
+    {
+      "movement": 13,
+      "entries": [
+        {
+          "code": "C",
+          "description": "Transition to Medium Walk"
+        },
+        {
+          "code": "CH",
+          "description": "Medium Walk"
+        }
+      ]
+    },
+    {
+      "movement": 14,
+      "entries": [
+        {
+          "code": "HB",
+          "description": "Change the rein Free Walk on a Long Rein"
+        }
+      ]
+    },
+    {
+      "movement": 15,
+      "entries": [
+        {
+          "code": "BF",
+          "description": "Medium Walk (Mark for Medium walk CH & BF)"
+        }
+      ]
+    },
+    {
+      "movement": 16,
+      "entries": [
+        {
+          "code": "FAK",
+          "description": "Working Trot"
+        },
+        {
+          "code": "KXM",
+          "description": "Change the Rein Medium Trot (Sitting or Rising)"
+        }
+      ]
+    },
+    {
+      "movement": 17,
+      "entries": [
+        {
+          "code": "MCHE",
+          "description": "Working Trot (Mark to include Transitions at K & M)"
+        }
+      ]
+    },
+    {
+      "movement": 18,
+      "entries": [
+        {
+          "code": "E",
+          "description": "1/2 10 Metre Circle to X"
+        },
+        {
+          "code": "XG",
+          "description": "Down Centre Line"
+        },
+        {
+          "code": "G",
+          "description": "Halt Immobility Salute"
+        }
+      ]
+    },
+    {
+      "movement": 19,
+      "entries": [
+        {
+          "code": "P",
+          "description": "Paces (freedom and regularity)"
+        }
+      ]
+    },
+    {
+      "movement": 20,
+      "entries": [
+        {
+          "code": "I",
+          "description": "Impulsion (desire to move forward, elasticity of the steps)"
+        }
+      ]
+    },
+    {
+      "movement": 21,
+      "entries": [
+        {
+          "code": "S",
+          "description": "Submission (attention and confidence, harmony)"
+        }
+      ]
+    },
+    {
+      "movement": 22,
+      "entries": [
+        {
+          "code": "R",
+          "description": "Rider (position and seat, correct use of the aids)"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ffae2e616047a7815d7dd"
+  },
+  "testValue": 116,
+  "movements": [
+    {
+      "movement": 1,
+      "entries": [
+        {
+          "code": "A",
+          "description": "Enter working trot"
+        },
+        {
+          "code": "X",
+          "description": "Halt Immobility. Salute. Proceed in working trot"
+        },
+        {
+          "code": "C",
+          "description": "Track left"
+        }
+      ]
+    },
+    {
+      "movement": 2,
+      "entries": [
+        {
+          "code": "HK",
+          "description": "Shoulder in left"
+        },
+        {
+          "code": "D",
+          "description": "Down centre line"
+        },
+        {
+          "code": "A",
+          "description": "Halt"
+        }
+      ]
+    },
+    {
+      "movement": 3,
+      "entries": [
+        {
+          "code": "HC",
+          "description": "Collected trot to b/w E & H"
+        },
+        {
+          "code": "M",
+          "description": "Half pass left"
+        }
+      ]
+    },
+    {
+      "movement": 4,
+      "entries": [
+        {
+          "code": "HCM",
+          "description": "Medium walk"
+        }
+      ]
+    },
+    {
+      "movement": 5,
+      "entries": [
+        {
+          "code": "B/w M&B",
+          "description": "Half pirouette right"
+        },
+        {
+          "code": "M",
+          "description": "Working trot"
+        }
+      ]
+    },
+    {
+      "movement": 6,
+      "entries": [
+        {
+          "code": "HXE",
+          "description": "Change rein in medium trot"
+        },
+        {
+          "code": "F",
+          "description": "Collected trot"
+        }
+      ]
+    },
+    {
+      "movement": 7,
+      "entries": [
+        {
+          "code": "KH",
+          "description": "Shoulder in right"
+        },
+        {
+          "code": "C",
+          "description": "Down centre line"
+        },
+        {
+          "code": "G",
+          "description": "Halt"
+        }
+      ]
+    },
+    {
+      "movement": 8,
+      "entries": [
+        {
+          "code": "KAF",
+          "description": "Collected trot to b/w E & K"
+        },
+        {
+          "code": "M",
+          "description": "Half pass right"
+        }
+      ]
+    },
+    {
+      "movement": 9,
+      "entries": [
+        {
+          "code": "KAF",
+          "description": "Medium walk"
+        }
+      ]
+    },
+    {
+      "movement": 10,
+      "entries": [
+        {
+          "code": "B/w F&B",
+          "description": "Half pirouette left"
+        },
+        {
+          "code": "F",
+          "description": "Medium walk"
+        }
+      ]
+    },
+    {
+      "movement": 11,
+      "entries": [
+        {
+          "code": "A",
+          "description": "Extended walk"
+        },
+        {
+          "code": "KF",
+          "description": "Half Circle right 20m Extended walk"
+        },
+        {
+          "code": "F",
+          "description": "Medium walk"
+        }
+      ]
+    },
+    {
+      "movement": 12,
+      "entries": [
+        {
+          "code": "AKE",
+          "description": "Collected canter"
+        },
+        {
+          "code": "E",
+          "description": "Circle right 20m medium canter"
+        }
+      ]
+    },
+    {
+      "movement": 13,
+      "entries": [
+        {
+          "code": "EH",
+          "description": "Collected canter"
+        },
+        {
+          "code": "H",
+          "description": "Half 10m circle returning to the track at E"
+        }
+      ]
+    },
+    {
+      "movement": 14,
+      "entries": [
+        {
+          "code": "EK",
+          "description": "Counter canter"
+        },
+        {
+          "code": "K",
+          "description": "Simple change"
+        }
+      ]
+    },
+    {
+      "movement": 15,
+      "entries": [
+        {
+          "code": "AFB",
+          "description": "Collected canter"
+        }
+      ]
+    },
+    {
+      "movement": 16,
+      "entries": [
+        {
+          "code": "B",
+          "description": "Circle left 20m medium canter"
+        },
+        {
+          "code": "BM",
+          "description": "Collected canter"
+        }
+      ]
+    },
+    {
+      "movement": 17,
+      "entries": [
+        {
+          "code": "M",
+          "description": "Half 10m circle returning to track at B"
+        },
+        {
+          "code": "BF",
+          "description": "Counter canter"
+        }
+      ]
+    },
+    {
+      "movement": 18,
+      "entries": [
+        {
+          "code": "F",
+          "description": "Working trot"
+        },
+        {
+          "code": "A",
+          "description": "Down centre line"
+        },
+        {
+          "code": "X",
+          "description": "Halt Immobility. Salute. Leave arena at a free walk on a long rein at an appropriate place"
+        }
+      ]
+    },
+    {
+      "movement": 19,
+      "entries": [
+        {
+          "code": "P",
+          "description": "Paces (freedom and regularity)"
+        }
+      ]
+    },
+    {
+      "movement": 20,
+      "entries": [
+        {
+          "code": "I",
+          "description": "Impulsion (desire to move forward, etc.)"
+        }
+      ]
+    },
+    {
+      "movement": 21,
+      "entries": [
+        {
+          "code": "S",
+          "description": "Submission (attention and confidence, etc.)"
+        }
+      ]
+    },
+    {
+      "movement": 22,
+      "entries": [
+        {
+          "code": "R",
+          "description": "Rider (position and seat of the rider, etc.)"
+        }
+      ]
+    }
+  ]
+}]

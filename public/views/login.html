@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h3>Login</h3>
+                <form action="/login" method="POST">
+                    <div class="form-group">
+                        <label for="text">Username</label>
+                        <input type="text" class="form-control" id="text" name="text" required>
+                    </div>
+                    <div class="form-group mt-3">
+                        <label for="password">Password</label>
+                        <input type="password" class="form-control" id="password" name="password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary mt-4">Login</button>
+                </form>
+                <!-- <p class="mt-3">Don't have an account? <a href="../register">Register here</a></p> -->
+            </div>
+        </div>
+    </div>
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.querySelector('form');
+            const emailInput = document.querySelector('#text');
+            const passwordInput = document.querySelector('#password');
+
+            form.addEventListener('submit', function (event) {
+                // Prevent the default form submission
+                event.preventDefault();
+
+                // Validate email
+                const email = emailInput.value.trim();
+                const password = passwordInput.value.trim();
+
+                if ( email === 'admin' && password === 'password'){
+                    window.location.href = '\\views\\event_registration.html';
+                } else {
+                    alert('wrong email or password!')
+                }
+
+            })
+        })
+    </script>
+</body>
+
+</html>
